@@ -1,5 +1,11 @@
 # amfiquery
 
+NOTE: This project is dead. It was created ages ago when there was no easy way to track mutual fund prices. I don't use it anymore, since you can easily query [Google Finance][1] and grab the price.
+
+[1]: https://www.google.com/finance?q=MUTF_IN%3AAXIS_LT_EQUI_1RWJOWW&ei=mvjqWLDVCJOHuQSrmb2ABw
+
+------
+
 `amfiquery` is simple utility for anyone investing in Indian Mutual
 Funds, and who interested in tracking their Net Asset Values. 
 
